@@ -94,7 +94,7 @@ If you wish to use Autoware.AI, the previous version of Autoware based on ROS 1,
   - Take a look at Autoware's [various working groups](https://github.com/autowarefoundation/autoware-projects/wiki#working-group-list) to gain an understanding of any work in progress and to see how projects are managed.
 - If you have any technical questions, you can start a discussion in the [Q&A category](https://github.com/autowarefoundation/autoware/discussions/categories/q-a) to request help and confirm if a potential issue is a bug or not.
 
-## Useful resources
+## Useful resources 
 
 - [Autoware Foundation homepage](https://www.autoware.org/)
 - [Support guidelines](https://autowarefoundation.github.io/autoware-documentation/main/support/support-guidelines/)
